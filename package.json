@@ -1,0 +1,11 @@
+{
+  "name": "graphql-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/thiago1belino/graphql-example.git",
+  "author": "Thiago Vieira Umbelino <thiagovu@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
+}
